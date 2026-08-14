@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.venv
+venv
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.log
+uploads
+admin/node_modules
+admin/dist
+.env
